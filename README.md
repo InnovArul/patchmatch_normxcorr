@@ -1,6 +1,10 @@
 # patchmatch_normxcorr
 This repository contains the source code for patch matching using Normalized correlation(NCC) layer and Cross-Input Neighborhood(CIN) layer published in WACV-2018.
 
+An explanation video made for WACV-2018 oral presentation:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/QvNN6QNPrx4/0.jpg)](http://www.youtube.com/watch?v=QvNN6QNPrx4 "NCC-Net: Normalized Cross Correlation Based Deep Matcher with Robustness to Illumination Variations")
+
 * The repository is under construction
 
 TODO's:
